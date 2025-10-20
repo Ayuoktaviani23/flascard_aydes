@@ -1,0 +1,399 @@
+﻿kategori,kanji,hiragana,katakana,romaji,indo,eng,tipe
+angka,一,いち,,ichi,satu,one,number
+angka,二,に,,ni,dua,two,number
+angka,三,さん,,san,tiga,three,number
+angka,四,よん,,yon,empat,four,number
+angka,五,ご,,go,lima,five,number
+angka,六,ろく,,roku,enam,six,number
+angka,七,なな,,nana,tujuh,seven,number
+angka,八,はち,,hachi,delapan,eight,number
+angka,九,きゅう,,kyuu,sembilan,nine,number
+angka,十,じゅう,,juu,sepuluh,ten,number
+angka,十一,じゅういち,,juuichi,sebelas,eleven,number
+angka,十二,じゅうに,,juuni,dua belas,twelve,number
+angka,十三,じゅうさん,,juusan,tiga belas,thirteen,number
+angka,十四,じゅうよん,,juuyon,empat belas,fourteen,number
+angka,十五,じゅうご,,juugo,lima belas,fifteen,number
+angka,十六,じゅうろく,,juuroku,enam belas,sixteen,number
+angka,十七,じゅうなな,,juunana,tujuh belas,seventeen,number
+angka,十八,じゅうはち,,juuhachi,delapan belas,eighteen,number
+angka,十九,じゅうきゅう,,juukyuu,sembilan belas,nineteen,number
+angka,二十,にじゅう,,nijuu,dua puluh,twenty,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+angka,二十二,にじゅうに,,nijuuni,dua puluh dua,twenty-two,number
+angka,二十一,にじゅういち,,nijuuichi,dua puluh satu,twenty-one,number
+tanggal,一日,ついたち,,tsuitachi,1,1st,number
+tanggal,二日,ふつか,,futsuka,2,2nd,number
+tanggal,三日,みっか,,mikka,3,3rd,number
+tanggal,四日,よっか,,yokka,4,4th,number
+tanggal,五日,いつか,,itsuka,5,5th,number
+tanggal,六日,むいか,,muika,6,6th,number
+tanggal,七日,なのか,,nanoka,7,7th,number
+tanggal,八日,ようか,,youka,8,8th,number
+tanggal,九日,ここのか,,kokonoka,9,9th,number
+tanggal,十日,とおか,,tooka,10,10th,number
+tanggal,十一日,じゅういちにち,,juuichinichi,11,11th,number
+tanggal,十二日,じゅうににち,,juuninichi,12,12th,number
+tanggal,十三日,じゅうさんにち,,juusannichi,13,13th,number
+tanggal,十四日,じゅうよっか,,juuyokka,14,14th,number
+tanggal,十五日,じゅうごにち,,juugonichi,15,15th,number
+tanggal,十六日,じゅうろくにち,,juurokunichi,16,16th,number
+tanggal,十七日,じゅうしちにち,,juushichinichi,17,17th,number
+tanggal,十八日,じゅうはちにち,,juuhachinichi,18,18th,number
+tanggal,十九日,じゅうくにち,,juukunichi,19,19th,number
+tanggal,二十日,はつか,,hatsuka,20,20th,number
+tanggal,二十一日,にじゅういちにち,,nijuuichinichi,21,21st,number
+tanggal,二十二日,にじゅうににち,,nijuuninichi,22,22nd,number
+tanggal,二十三日,にじゅうさんにち,,nijuusannichi,23,23rd,number
+tanggal,二十四日,にじゅうよっか,,nijuuyokka,24,24th,number
+tanggal,二十五日,にじゅうごにち,,nijuugonichi,25,25th,number
+tanggal,二十六日,にじゅうろくにち,,nijuurokunichi,26,26th,number
+tanggal,二十七日,にじゅうしちにち,,nijuushichinichi,27,27th,number
+tanggal,二十八日,にじゅうはちにち,,nijuuhachinichi,28,28th,number
+tanggal,二十九日,にじゅうくにち,,nijuukunichi,29,29th,number
+tanggal,三十日,さんじゅうにち,,sanjuunichi,30,30th,number
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+waktu,一時,いちじ,,ichiji,jam satu,one o'clock,noun
+waktu,二時,にじ,,niji,jam dua,two o'clock,noun
+waktu,三時,さんじ,,sanji,jam tiga,three o'clock,noun
+waktu,四時,よじ,,yoji,jam empat,four o'clock,noun
+hari,月曜日,げつようび,,getsuyoubi,senin,Monday,noun
+hari,火曜日,かようび,,kayoubi,selasa,Tuesday,noun
+hari,水曜日,すいようび,,suiyoubi,rabu,Wednesday,noun
+hari,木曜日,もくようび,,mokuyoubi,kamis,Thursday,noun
+hari,金曜日,きんようび,,kinyoubi,jumat,Friday,noun
+hari,土曜日,どようび,,doyoubi,sabtu,Saturday,noun
+hari,日曜日,にちようび,,nichiyoubi,minggu,Sunday,noun
+hari,週末,しゅうまつ,,shuumatsu,akhir pekan,weekend,noun
+hari,平日,へいじつ,,heijitsu,hari kerja,weekday,noun
+hari,休日,きゅうじつ,,kyuujitsu,libur,holiday,noun
+
+bulan,一月,いちがつ,,ichigatsu,januari,January,noun
+bulan,二月,にがつ,,nigatsu,februari,February,noun
+bulan,三月,さんがつ,,sangatsu,maret,March,noun
+bulan,四月,しがつ,,shigatsu,april,April,noun
+bulan,五月,ごがつ,,gogatsu,mei,May,noun
+bulan,六月,ろくがつ,,rokugatsu,juni,June,noun
+bulan,七月,しちがつ,,shichigatsu,juli,July,noun
+bulan,八月,はちがつ,,hachigatsu,agustus,August,noun
+bulan,九月,くがつ,,kugatsu,september,September,noun
+bulan,十月,じゅうがつ,,juugatsu,oktober,October,noun
+bulan,十一月,じゅういちがつ,,juuichigatsu,november,November,noun
+bulan,十二月,じゅうにがつ,,juunigatsu,desember,December,noun
+waktu,六時,ろくじ,,rokuji,jam enam,six o'clock,noun
+waktu,六時半,ろくじはん,,rokuji han,jam enam setengah,six thirty,noun
+waktu,七時,しちじ,,shichiji,jam tujuh,seven o'clock,noun
+waktu,七時半,しちじはん,,shichiji han,jam tujuh setengah,seven thirty,noun
+waktu,八時,はちじ,,hachiji,jam delapan,eight o'clock,noun
+waktu,八時半,はちじはん,,hachiji han,jam delapan setengah,eight thirty,noun
+waktu,九時,くじ,,kuji,jam sembilan,nine o'clock,noun
+waktu,九時半,くじはん,,kuji han,jam sembilan setengah,nine thirty,noun
+waktu,十時,じゅうじ,,juuji,jam sepuluh,ten o'clock,noun
+waktu,十時半,じゅうじはん,,juuji han,jam sepuluh setengah,ten thirty,noun
+kategori,kanji,hiragana,katakana,romaji,indo,eng,tipe
+keluarga,父,ちち,,chichi,ayah,father,informal
+keluarga,お父さん,おとうさん,,otousan,ayah,father,formal
+keluarga,母,はは,,haha,ibu,mother,informal
+keluarga,お母さん,おかあさん,,okaasan,ibu,mother,formal
+keluarga,祖父,そふ,,sofu,kakek,grandfather,informal
+keluarga,お祖父さん,おじいさん,,ojiisan,kakek,grandfather,formal
+keluarga,祖母,そぼ,,sobo,nenek,grandmother,informal
+keluarga,お祖母さん,おばあさん,,obaasan,nenek,grandmother,formal
+keluarga,兄,あに,,ani,kakak laki-laki,older brother,informal
+keluarga,お兄さん,おにいさん,,oniisan,kakak laki-laki,older brother,formal
+keluarga,弟,おとうと,,otouto,adik laki-laki,younger brother,informal
+keluarga,妹,いもうと,,imouto,adik perempuan,younger sister,informal
+keluarga,姉,あね,,ane,kakak perempuan,older sister,informal
+keluarga,お姉さん,おねえさん,,oneesan,kakak perempuan,older sister,formal
+keluarga,叔父,おじ,,oji,paman,uncle,informal
+keluarga,叔父さん,おじさん,,ojisan,paman,uncle,formal
+keluarga,叔母,おば,,oba,bibi,aunt,informal
+keluarga,叔母さん,おばさん,,obasan,bibi,aunt,formal
+keluarga,甥,おい,,oi,keponakan laki-laki,nephew,informal
+keluarga,姪,めい,,mei,keponakan perempuan,niece,informal
+keluarga,いとこ,,,,sepupu,cousin,informal
+
+aisatsu,おはよう,おはよう,,ohayou,selamat pagi,good morning,informal
+aisatsu,おはようございます,おはようございます,,ohayou gozaimasu,selamat pagi,good morning,formal
+aisatsu,こんにちは,こんにちは,,konnichiwa,halo/selamat siang,hello,formal
+aisatsu,こんばんは,こんばんは,,konbanwa,selamat malam,good evening,formal
+aisatsu,さようなら,さようなら,,sayounara,selamat tinggal,goodbye,formal
+aisatsu,じゃあね,じゃあね,,jaa ne,sampai nanti,see you,informal
+aisatsu,またね,またね,,mata ne,sampai jumpa lagi,see you again,informal
+aisatsu,おやすみ,おやすみ,,oyasumi,selamat tidur,good night,informal
+aisatsu,おやすみなさい,おやすみなさい,,oyasuminasai,selamat tidur,good night,formal
+aisatsu,はじめまして,はじめまして,,hajimemashite,senang bertemu denganmu,nice to meet you,formal
+aisatsu,よろしくお願いします,よろしくおねがいします,,yoroshiku onegaishimasu,mohon kerjasamanya,please treat me well,formal
+aisatsu,どうぞよろしく,どうぞよろしく,,douzo yoroshiku,senang bertemu,please treat me well,informal
+aisatsu,ごきげんよう,ごきげんよう,,gokigenyou,selamat siang,hello,formal
+aisatsu,お元気ですか,おげんきですか,,ogenki desu ka,apa kabar?,how are you?,formal
+
+tahun,千,せん,,sen,1000,one thousand,number
+tahun,千百,せんひゃく,,senhyaku,1100,one thousand one hundred,number
+tahun,千二百,せんにひゃく,,sennihyaku,1200,one thousand two hundred,number
+tahun,千三百,せんさんびゃく,,sensanbyaku,1300,one thousand three hundred,number
+tahun,千四百,せんよんひゃく,,senyonhyaku,1400,one thousand four hundred,number
+tahun,千五百,せんごひゃく,,sengohyaku,1500,one thousand five hundred,number
+tahun,千六百,せんろっぴゃく,,senroppyaku,1600,one thousand six hundred,number
+tahun,千七百,せんななひゃく,,sennanahyaku,1700,one thousand seven hundred,number
+tahun,千八百,せんはっぴゃく,,senhappyaku,1800,one thousand eight hundred,number
+tahun,千九百,せんきゅうひゃく,,senkyuuhyaku,1900,one thousand nine hundred,number
+tahun,二千,にせん,,nisen,2000,two thousand,number
+tahun,二千一,にせんいち,,nisenichi,2001,two thousand one,number
+tahun,二千二,にせんに,,niseni,2002,two thousand two,number
+tahun,二千三,にせんさん,,nisensan,2003,two thousand three,number
+tahun,二千二十,にせんにじゅう,,niseniijuu,2020,two thousand twenty,number
+tahun,二千二十一,にせんにじゅういち,,niseniijuuichi,2021,two thousand twenty-one,number
+tahun,二千二十二,にせんにじゅうに,,niseniijuuni,2022,two thousand twenty-two,number
+tahun,二千二十三,にせんにじゅうさん,,niseniijuusan,2023,two thousand twenty-three,number
+tahun,二千二十四,にせんにじゅうよん,,niseniijuuyon,2024,two thousand twenty-four,number
+tahun,二千二十五,にせんにじゅうご,,niseniijuugo,2025,two thousand twenty-five,number
+
+makanan,ごはん,ごはん,,gohan,nasi,rice,noun
+makanan,パン,ぱん,,pan,roti,bread,noun
+makanan,みそしる,みそしる,,misoshiru,sup miso,miso soup,noun
+makanan,すし,すし,,sushi,sushi,sushi,noun
+makanan,てんぷら,てんぷら,,tenpura,tempura,tempura,noun
+makanan,うどん,うどん,,udon,udon,udon noodles,noun
+makanan,そば,そば,,soba,soba,soba noodles,noun
+makanan,ラーメン,らーめん,,raamen,ramen,ramen,noun
+makanan,カレー,かれー,,karee,kari,curry,noun
+makanan,たまご,たまご,,tamago,telur,egg,noun
+makanan,さかな,さかな,,sakana,ikan,fish,noun
+makanan,にく,にく,,niku,daging,meat,noun
+makanan,やさい,やさい,,yasai,sayur,vegetable,noun
+makanan,くだもの,くだもの,,kudamono,buah,fruit,noun
+makanan,テンペ,てんぺ,,tempe,tempeh,tempeh,noun
+makanan,ナシゴレン,なしごれん,,nashigoren,nasi goreng,fried rice,noun
+makanan,サテ,さて,,sate,sate,chicken/beef skewer,noun
+makanan,ガドガド,がどがど,,gadogado,salad sayur Indonesia with peanut sauce,gado-gado,noun
+makanan,ソト,そと,,soto,soto,soto soup,noun
+makanan,レンコン,れんこん,,renkon,akar teratai,lotus root,noun
+
+benda,椅子,いす,,isu,kursi,chair,noun
+benda,机,つくえ,,tsukue,meja,desk,noun
+benda,本,ほん,,hon,buku,book,noun
+benda,ペン,ぺん,,pen,pena,pen,noun
+benda,ノート,のーと,,nooto,buku catatan,notebook,noun
+benda,カップ,かっぷ,,kappu,cangkir,cup,noun
+benda,時計,とけい,,tokei,jam,clock/watch,noun
+benda,バッグ,ばっぐ,,baggu,tas,bag,noun
+benda,傘,かさ,,kasa,payung,umbrella,noun
+benda,靴,くつ,,kutsu,sepatu,shoes,noun
+benda,自転車,じてんしゃ,,jitensha,sepeda,bicycle,noun
+benda,車,くるま,,kuruma,mobil,car,noun
+benda,電話,でんわ,,denwa,telepon,telephone,noun
+benda,コンピュータ,こんぴゅーた,,konpyuuta,komputer,computer,noun
+benda,テレビ,てれび,,terebi,televisi,TV,noun
+benda,窓,まど,,mado,jendela,window,noun
+benda,ドア,どあ,,doa,pintu,door,noun
+
+hewan,犬,いぬ,,inu,anjing,dog,noun
+hewan,猫,ねこ,,neko,kucing,cat,noun
+hewan,鳥,とり,,tori,burung,bird,noun
+hewan,魚,さかな,,sakana,ikan,fish,noun
+hewan,馬,うま,,uma,kuda,horse,noun
+hewan,牛,うし,,ushi,sapi,cow,noun
+hewan,豚,ぶた,,buta,babi,pig,noun
+hewan,羊,ひつじ,,hitsuji,domba,sheep,noun
+hewan,猿,さる,,saru,monyet,monkey,noun
+hewan,象,ぞう,,zou,gajah,elephant,noun
+hewan,蛇,へび,,hebi,ular,snake,noun
+hewan,亀,かめ,,kame,kura-kura,turtle,noun
+hewan,ライオン,らいおん,,raion,raja hutan,lion,noun
+hewan,トラ,とら,,tora,harimau,tiger,noun
+hewan,クマ,くま,,kuma,beruang,bear,noun
+hewan,カエル,かえる,,kaeru,kodok,frog,noun
+hewan,カメレオン,かめれおん,,kamereon,kameleon,chameleon,noun
+
+buah,りんご,りんご,,ringo,apel,apple,noun
+buah,みかん,みかん,,mikan,jeruk,mandarin orange,noun
+buah,バナナ,ばなな,,banana,pisang,banana,noun
+buah,ぶどう,ぶどう,,budou,anggur,grape,noun
+buah,もも,もも,,momo,persik,peach,noun
+buah,いちご,いちご,,ichigo,stroberi,strawberry,noun
+buah,すいか,すいか,,suika,semangka,watermelon,noun
+buah,パイナップル,ぱいなっぷる,,painappuru,nanas,pineapple,noun
+buah,キウイ,きうい,,kiui,kiwi,kiwi,noun
+buah,メロン,めろん,,meron,melon,melon,noun
+
+sayur,にんじん,にんじん,,ninjin,wortel,carrot,noun
+sayur,だいこん,だいこん,,daikon,lobak,radish,noun
+sayur,キャベツ,きゃべつ,,kyabetsu,kubis,cabbage,noun
+sayur,レタス,れたす,,retasu,selada,lettuce,noun
+sayur,きゅうり,きゅうり,,kyuuri,mentimun,cucumber,noun
+sayur,トマト,とまと,,tomato,tomat,tomato,noun
+sayur,なす,なす,,nasu,terong,eggplant,noun
+sayur,ピーマン,ぴーまん,,piiman,kapia/bell pepper,bell pepper,noun
+sayur,ほうれんそう,ほうれんそう,,hourensou,bayam,spinach,noun
+sayur,さつまいも,さつまいも,,satsumaimo,ubi jalar,sweet potato,noun
+
+profesi,医者,いしゃ,,isha,dokter,doctor,noun
+profesi,看護師,かんごし,,kangoshi,perawat,nurse,noun
+profesi,教師,きょうし,,kyoushi,guru,teacher,noun
+profesi,学生,がくせい,,gakusei,mahasiswa/student,student,noun
+profesi,弁護士,べんごし,,bengoshi,pengacara,lawyer,noun
+profesi,警察官,けいさつかん,,keisatsukan,polisi,police officer,noun
+profesi,消防士,しょうぼうし,,shouboushi,petugas pemadam kebakaran,firefighter,noun
+profesi,エンジニア,えんじにあ,,enjinia,insinyur,engineer,noun
+profesi,会社員,かいしゃいん,,kaishain,karyawan perusahaan,office worker,noun
+profesi,農家,のうか,,nouka,petani,farmer,noun
+profesi,料理人,りょうりにん,,ryourinin,koki,chef,noun
+profesi,店員,てんいん,,tenin,kasir,shop clerk,noun
+profesi,歌手,かしゅ,,kashu,penyanyi,singer,noun
+profesi,俳優,はいゆう,,haiyuu,aktor,actor,noun
+profesi,モデル,もでる,,moderu,model,model,noun
+profesi,作家,さっか,,sakka,penulis,writer,noun
+profesi,画家,がか,,gaka,pelukis,painter,noun
+
+ruangan,狭い部屋,せまいへや,,semai heya,ruangan sempit,narrow room,noun
+ruangan,広い部屋,ひろいへや,,hiroi heya,ruangan luas,spacious room,noun
+ruangan,暑い部屋,あついへや,,atsui heya,ruangan panas,hot room,noun
+ruangan,寒い部屋,さむいへや,,samui heya,ruangan dingin,cold room,noun
+ruangan,明るい部屋,あかるいへや,,akarui heya,ruangan terang,bright room,noun
+ruangan,暗い部屋,くらいへや,,kurai heya,ruangan gelap,dark room,noun
+ruangan,静かな部屋,しずかなへや,,shizuka na heya,ruangan tenang,quiet room,noun
+ruangan,にぎやかな部屋,にぎやかなへや,,nigiyaka na heya,ruangan ramai,noisy/lively room,noun
+ruangan,寝室,しんしつ,,shinshitsu,kamar tidur,bedroom,noun
+ruangan,台所,だいどころ,,daidokoro,dapur,kitchen,noun
+ruangan,浴室,よくしつ,,yokushitsu,kamar mandi,bathroom,noun
+ruangan,リビング,りびんぐ,,ribingu,ruang tamu,living room,noun
+ruangan,書斎,しょさい,,shosai,ruang kerja,study room,noun
+ruangan,玄関,げんかん,,genkan,teras depan/ruang masuk,entrance hall,noun
+ruangan,トイレ,といれ,,toire,toilet,toilet,noun
+ruangan,押入れ,おしいれ,,oshiire,lemari,closet,noun
+ruangan,ベランダ,べらんだ,,beranda,veranda/balcony,noun
+
+posisi,上,うえ,,ue,atas,above/on top,noun
+posisi,下,した,,shita,bawah,below/under,noun
+posisi,前,まえ,,mae,di depan,in front,noun
+posisi,後ろ,うしろ,,ushiro,di belakang,behind,noun
+posisi,左,ひだり,,hidari,kiri,left,noun
+posisi,右,みぎ,,migi,kanan,right,noun
+posisi,中,なか,,naka,di dalam,inside,noun
+posisi,外,そと,,soto,di luar,outside,noun
+posisi,隣,となり,,tonari,di sebelah,next to,noun
+posisi,近く,ちかく,,chikaku,di dekat,near,noun
+posisi,向かい,むかい,,mukai,di seberang,opposite,noun
+posisi,間,あいだ,,aida,di antara,between,noun
+posisi,角,かど,,kado,pojok,corner,noun
+
+hari_nasional,元日,がんじつ,,Ganjitsu,Tahun Baru,New Year's Day,noun
+hari_nasional,建国記念の日,けんこくきねんのひ,,Kenkoku Kinen no Hi,Hari Peringatan Nasional,National Foundation Day,noun
+hari_nasional,春分の日,しゅんぶんのひ,,Shunbun no Hi,Hari Equinox Musim Semi,Vernal Equinox Day,noun
+hari_nasional,昭和の日,しょうわのひ,,Shouwa no Hi,Hari Showa,Showa Day,noun
+hari_nasional,憲法記念日,けんぽうきねんび,,Kenpou Kinenbi,Hari Konstitusi,Constitution Memorial Day,noun
+hari_nasional,みどりの日,みどりのひ,,Midori no Hi,Hari Hijau,Greenery Day,noun
+hari_nasional,こどもの日,こどものひ,,Kodomo no Hi,Hari Anak,Children's Day,noun
+hari_nasional,海の日,うみのひ,,Umi no Hi,Hari Laut,Marine Day,noun
+hari_nasional,山の日,やまのひ,,Yama no Hi,Hari Gunung,Mountain Day,noun
+hari_nasional,敬老の日,けいろうのひ,,Keirou no Hi,Hari Lansia,Respect for the Aged Day,noun
+hari_nasional,秋分の日,しゅうぶんのひ,,Shuubun no Hi,Hari Equinox Musim Gugur,Autumnal Equinox Day,noun
+hari_nasional,文化の日,ぶんかのひ,,Bunka no Hi,Hari Budaya,Culture Day,noun
+hari_nasional,勤労感謝の日,きんろうかんしゃのひ,,Kinrou Kansha no Hi,Hari Apresiasi Pekerja,Labor Thanksgiving Day,noun
+hari_nasional,天皇誕生日,てんのうたんじょうび,,Tennou Tanjoubi,Hari Ulang Tahun Kaisar,Emperor's Birthday,noun
+anggota_tubuh,頭,あたま,,atama,kepala,head,noun
+anggota_tubuh,目,め,,me,mata,eye,noun
+anggota_tubuh,耳,みみ,,mimi,telinga,ear,noun
+anggota_tubuh,口,くち,,kuchi,mulut,mouth,noun
+anggota_tubuh,鼻,はな,,hana,hidung,nose,noun
+anggota_tubuh,手,て,,te,tangan,hand,noun
+anggota_tubuh,指,ゆび,,yubi,jari,finger,noun
+anggota_tubuh,足,あし,,ashi,kaki,leg/foot,noun
+anggota_tubuh,膝,ひざ,,hiza,lutut,knee,noun
+anggota_tubuh,背中,せなか,,senaka,punggung,back,noun
+anggota_tubuh,心臓,しんぞう,,shinzou,jantung,heart,noun
+anggota_tubuh,肺,はい,,hai,paru-paru,lung,noun
+anggota_tubuh,骨,ほね,,hone,tulang,bone,noun
+anggota_tubuh,肌,はだ,,hada,kulit,skin,noun
+anggota_tubuh,歯,は,,ha,gigi,tooth,noun
+
+tempat,学校,がっこう,,gakkou,sekolah,school,noun
+tempat,大学,だいがく,,daigaku,universitas,university,noun
+tempat,図書館,としょかん,,toshokan,perpustakaan,library,noun
+tempat,病院,びょういん,,byouin,rumah sakit,hospital,noun
+tempat,薬局,やっきょく,,yakkyoku,apotik,pharmacy,noun
+tempat,銀行,ぎんこう,,ginkou,bank,bank,noun
+tempat,郵便局,ゆうびんきょく,,yuubinkyoku,kantor pos,post office,noun
+tempat,警察署,けいさつしょ,,keisatsusho,kantor polisi,police station,noun
+tempat,消防署,しょうぼうしょ,,shoubousho,kantor pemadam kebakaran,fire station,noun
+tempat,スーパー,すーぱー,,suupaa,supermarket,supermarket,noun
+tempat,コンビニ,こんびに,,konbini,mini market,convenience store,noun
+tempat,ホテル,ほてる,,hoteru,hotel,hotel,noun
+tempat,レストラン,れすとらん,,resutoran,restoran,restaurant,noun
+tempat,カフェ,かふぇ,,kafe,cafe,cafe,noun
+tempat,公園,こうえん,,kouen,taman,park,noun
+tempat,駅,えき,,eki,stasiun,station,noun
+tempat,空港,くうこう,,kuukou,bandara,airport,noun
+tempat,港,みなと,,minato,pelabuhan,harbor/port,noun
+tempat,映画館,えいがかん,,eigakan,bioskop,movie theater,noun
+tempat,博物館,はくぶつかん,,hakubutsukan,museum,museum,noun
+tempat,神社,じんじゃ,,jinja,kuil Shinto,Shinto shrine,noun
+tempat,寺,てら,,tera,kuil Buddha,Buddhist temple,noun
+tempat,動物園,どうぶつえん,,doubutsuen,kebun binatang,zoo,noun
+tempat,水族館,すいぞくかん,,suizokukan,aquarium,aquarium,noun
+tempat,市場,いちば,,ichiba,pasar,market,noun
+tempat,町,まち,,machi,kota,city/town,noun
+tempat,村,むら,,mura,desa,village,noun
+tempat,橋,はし,,hashi,jembatan,bridge,noun
+tempat,道,みち,,michi,jalan,road,noun
+
+transportasi,車,くるま,,kuruma,mobil,car,noun
+transportasi,バス,ばす,,basu,bus,bus,noun
+transportasi,自転車,じてんしゃ,,jitensha,sepeda,bicycle,noun
+transportasi,電車,でんしゃ,,densha,kereta api,train,noun
+transportasi,地下鉄,ちかてつ,,chikatetsu,kereta bawah tanah,subway,noun
+transportasi,飛行機,ひこうき,,hikouki,pesawat,airplane,noun
+transportasi,船,ふね,,fune,kapal,ship/noun
+transportasi,タクシー,たくしー,,takushii,taksi,taxi,noun
+transportasi,バイク,ばいく,,baiku,motorcycle,motorbike,noun
+transportasi,電動キックボード,でんどうきっくぼーど,,dendou kickboard,scooter,electric scooter,noun
+transportasi,トラック,とらっく,,torakku,truk,truck,noun
+transportasi,救急車,きゅうきゅうしゃ,,kyuukyuusha,ambulans,ambulance,noun
+transportasi,消防車,しょうぼうしゃ,,shoubousha, mobil pemadam kebakaran,fire truck,noun
+transportasi,警察車両,けいさつしゃりょう,,keisatsu sharyou,mobil polisi,police car,noun
+transportasi,新幹線,しんかんせん,,shinkansen,kereta peluru,Bullet train,noun
+transportasi,フェリー,ふぇりー,,ferii,feri,ferry,noun
+transportasi,気球,ききゅう,,kikyuu,balon udara,hot air balloon,noun
+transportasi,ヘリコプター,へりこぷたー,,herikoputaa,helikopter,helicopter,noun
