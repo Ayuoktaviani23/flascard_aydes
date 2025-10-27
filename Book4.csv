@@ -397,3 +397,143 @@ transportasi,新幹線,しんかんせん,,shinkansen,kereta peluru,Bullet train
 transportasi,フェリー,ふぇりー,,ferii,feri,ferry,noun
 transportasi,気球,ききゅう,,kikyuu,balon udara,hot air balloon,noun
 transportasi,ヘリコプター,へりこぷたー,,herikoputaa,helikopter,helicopter,noun
+kegiatan,食べる,たべる,,taberu,makan,eat,verb
+kegiatan,飲む,のむ,,nomu,minum,drink,verb
+kegiatan,見る,みる,,miru,melihat,see,verb
+kegiatan,書く,かく,,kaku,menulis,write,verb
+kegiatan,聞く,きく,,kiku,mendengar,hear,verb
+kegiatan,話す,はなす,,hanasu,berbicara,speak,verb
+kegiatan,歩く,あるく,,aruku,berjalan,walk,verb
+kegiatan,走る,はしる,,hashiru,berlari,run,verb
+kegiatan,泳ぐ,およぐ,,oyogu,berenang,swim,verb
+kegiatan,買う,かう,,kau,membeli,buy,verb
+kegiatan,売る,うる,,uru,menjual,sell,verb
+kegiatan,教える,おしえる,,oshieru,mengajar,teach,verb
+kegiatan,学ぶ,まなぶ,,manabu,belajar,learn,verb
+kegiatan,習う,ならう,,narau,berlatih,practice,verb
+kegiatan,帰る,かえる,,kaeru,pulang,go home,verb
+kegiatan,行く,いく,,iku,pergi,go,verb
+kegiatan,来る,くる,,kuru,datang,come,verb
+kegiatan,待つ,まつ,,matsu,menunggu,wait,verb
+kegiatan,立つ,たつ,,tatsu,berdiri,stand,verb
+kegiatan,座る,すわる,,suwaru,duduk,sit,verb
+kegiatan,寝る,ねる,,neru,tidur,sleep,verb
+kegiatan,起きる,おきる,,okiru,bangun,wake up,verb
+kegiatan,遊ぶ,あそぶ,,asobu,bermain,play,verb
+kegiatan,作る,つくる,,tsukuru,membuat,make,verb
+kegiatan,使う,つかう,,tsukau,menggunakan,use,verb
+kegiatan,送る,おくる,,okuru,mengirim,send,verb
+kegiatan,開ける,あける,,akeru,membuka,open,verb
+kegiatan,閉める,しめる,,shimeru,menutup,close,verb
+kegiatan,探す,さがす,,sagasu,mencari,search,verb
+kegiatan,洗う,あらう,,arau,mencuci,wash,verb
+kegiatan,歌う,うたう,,utau,menyanyi,sing,verb
+kegiatan,働く,はたらく,,hataraku,bekerja,work,verb
+kegiatan,始める,はじめる,,hajimeru,memulai,start,verb
+kegiatan,終わる,おわる,,owaru,selesai,finish,verb
+kegiatan,助ける,たすける,,tasukeru,menolong,help,verb
+kegiatan,呼ぶ,よぶ,,yobu,memanggil,call,verb
+kegiatan,忘れる,わすれる,,wasureru,melupakan,forget,verb
+kegiatan,覚える,おぼえる,,oboeru,mengingat,remember,verb
+kegiatan,笑う,わらう,,warau,tertawa,laugh,verb
+kegiatan,泣く,なく,,naku,menangis,cry,verb
+kegiatan,勝つ,かつ,,katsu,menang,win,verb
+kegiatan,負ける,まける,,makeru,kalah,lose,verb
+kegiatan,決める,きめる,,kimeru,memutuskan,decide,verb
+kegiatan,選ぶ,えらぶ,,erabu,memilih,choose,verb
+kegiatan,集める,あつめる,,atsumeru,mengumpulkan,collect,verb
+kegiatan,借りる,かりる,,kariru,meminjam (menerima),borrow,verb
+kegiatan,貸す,かす,,kasu,meminjamkan,lend,verb
+kegiatan,運ぶ,はこぶ,,hakobu,membawa,carry,verb
+kegiatan,飲み込む,のみこむ,,nomikomu,menelan,swallow,verb
+kegiatan,掃除する,そうじする,,souji suru,membersihkan,clean,verb
+kegiatan,料理する,りょうりする,,ryouri suru,memasak,cook,verb
+kegiatan,練習する,れんしゅうする,,renshuu suru,berlatih,practice,verb
+kegiatan,勉強する,べんきょうする,,benkyou suru,belajar,study,verb
+kegiatan,説明する,せつめいする,,setsumei suru,menjelaskan,explain,verb
+kegiatan,紹介する,しょうかいする,,shoukai suru,memperkenalkan,introduce,verb
+kegiatan,約束する,やくそくする,,yakusoku suru,berjanji,promise,verb
+kegiatan,相談する,そうだんする,,soudan suru,berdiskusi,consult,verb
+kegiatan,準備する,じゅんびする,,junbi suru,mempersiapkan,prepare,verb
+kegiatan,運転する,うんてんする,,unten suru,menyetir,drive,verb
+kegiatan,旅行する,りょこうする,,ryokou suru,bepergian,travel,verb
+kegiatan,登録する,とうろくする,,touroku suru,mendaftar,register,verb
+kegiatan,予約する,よやくする,,yoyaku suru,memesan,reserve,verb
+kegiatan,確認する,かくにんする,,kakunin suru,memastikan,confirm,verb
+kegiatan,反対する,はんたいする,,hantai suru,menolak/object,oppose,verb
+kegiatan,賛成する,さんせいする,,sansei suru,menyetujui,agree,verb
+kegiatan,発表する,はっぴょうする,,happyou suru,mempresentasikan,present,verb
+kegiatan,見学する,けんがくする,,kengaku suru,melihat-lihat secara edukatif,observe study,verb
+kegiatan,参加する,さんかする,,sanka suru,berpartisipasi,participate,verb
+kegiatan,使用する,しようする,,shiyou suru,menggunakan,use,verb
+kegiatan,注意する,ちゅういする,,chuui suru,memperingatkan,warn,verb
+kegiatan,報告する,ほうこくする,,houkoku suru,melaporkan,report,verb
+kegiatan,到着する,とうちゃくする,,touchaku suru,tiba,arrive,verb
+kegiatan,出発する,しゅっぱつする,,shuppatsu suru,berangkat,depart,verb
+kegiatan,輸入する,ゆにゅうする,,yunyuu suru,mengimpor,import,verb
+kegiatan,輸出する,ゆしゅつする,,yushutsu suru,mengekspor,export,verb
+kegiatan,発見する,はっけんする,,hakken suru,menemukan,discover,verb
+kegiatan,発明する,はつめいする,,hatsumei suru,menciptakan,invent,verb
+kegiatan,経験する,けいけんする,,keiken suru,mengalami,experience,verb
+kegiatan,緊張する,きんちょうする,,kinchou suru,tegang,nervous,verb
+kegiatan,努力する,どりょくする,,doryoku suru,berusaha,make effort,verb
+kegiatan,競争する,きょうそうする,,kyousou suru,bersaing,compete,verb
+kegiatan,成長する,せいちょうする,,seichou suru,bertumbuh,grow,verb
+kegiatan,変化する,へんかする,,henka suru,berubah,change,verb
+kegiatan,研究する,けんきゅうする,,kenkyuu suru,meneliti,research,verb
+kegiatan,整理する,せいりする,,seiri suru,merapikan,organize,verb
+kegiatan,提出する,ていしゅつする,,teishutsu suru,mengumpulkan (tugas),submit,verb
+kegiatan,発音する,はつおんする,,hatsuon suru,melafalkan,pronounce,verb
+kegiatan,通訳する,つうやくする,,tsuuyaku suru,menjadi penerjemah lisan,interpret,verb
+kegiatan,翻訳する,ほんやくする,,honyaku suru,menerjemahkan (tulisan),translate,verb
+kegiatan,掃除機をかける,そうじきをかける,,soujiki wo kakeru,menyedot debu,vacuum,verb
+kegiatan,電話する,でんわする,,denwa suru,menelpon,call,verb
+kegiatan,返信する,へんしんする,,henshin suru,membalas pesan,reply,verb
+kegiatan,保存する,ほぞんする,,hozon suru,menyimpan,save,verb
+kegiatan,記録する,きろくする,,kiroku suru,mencatat,record,verb
+kegiatan,停止する,ていしする,,teishi suru,mematikan/stop,stop,verb
+kegiatan,比較する,ひかくする,,hikaku suru,membandingkan,compare,verb
+kegiatan,出席する,しゅっせきする,,shusseki suru,hadir,attend,verb
+kegiatan,欠席する,けっせきする,,kesseki suru,tidak hadir,absent,verb
+kegiatan,応援する,おうえんする,,ouen suru,menyemangati,support,verb
+kegiatan,感謝する,かんしゃする,,kansha suru,berterima kasih,thank,verb
+kegiatan,謝る,あやまる,,ayamaru,meminta maaf,apologize,verb
+kegiatan,案内する,あんないする,,annai suru,memandu,guide,verb
+kegiatan,紹介する,しょうかいする,,shoukai suru,memperkenalkan,introduce,verb
+kegiatan,観光する,かんこうする,,kankou suru,berwisata,sightsee,verb
+kegiatan,登る,のぼる,,noboru,memanjat,climb,verb
+kegiatan,配る,くばる,,kubaru,membagikan,distribute,verb
+kegiatan,断る,ことわる,,kotowaru,menolak,decline,verb
+kegiatan,許す,ゆるす,,yurusu,mengizinkan,allow,verb
+kegiatan,届ける,とどける,,todokeru,mengantarkan,deliver,verb
+kegiatan,盗む,ぬすむ,,nusumu,mencuri,steal,verb
+kegiatan,騙す,だます,,damasu,menipu,deceive,verb
+kegiatan,驚く,おどろく,,odoroku,terkejut,be surprised,verb
+kegiatan,見送る,みおくる,,miokuru,mengantar (melepas),see off,verb
+kegiatan,祝う,いわう,,iwau,merayakan,celebrate,verb
+kegiatan,投げる,なげる,,nageru,melempar,throw,verb
+kegiatan,拾う,ひろう,,hirou,memungut,pick up,verb
+kegiatan,壊す,こわす,,kowasu,merusak,destroy,verb
+kegiatan,直す,なおす,,naosu,memperbaiki,fix,verb
+kegiatan,治す,なおす,,naosu,menyembuhkan,heal,verb
+kegiatan,守る,まもる,,mamoru,melindungi,protect,verb
+kegiatan,残す,のこす,,nokosu,menyisakan,leave behind,verb
+kegiatan,預ける,あずける,,azukeru,menitipkan,deposit,verb
+kegiatan,預かる,あずかる,,azukaru,menitipi (menerima titipan),keep for someone,verb
+kegiatan,破る,やぶる,,yaburu,merobek,tear,verb
+kegiatan,折る,おる,,oru,mematahkan,break,verb
+kegiatan,見つける,みつける,,mitsukeru,menemukan,find,verb
+kegiatan,逃げる,にげる,,nigeru,melarikan diri,escape,verb
+kegiatan,捕まえる,つかまえる,,tsukamaeru,menangkap,catch,verb
+kegiatan,追いかける,おいかける,,oikakeru,mengikuti/mengejar,chase,verb
+kegiatan,隠す,かくす,,kakusu,menyembunyikan,hide,verb
+kegiatan,隠れる,かくれる,,kakureru,bersembunyi,hide oneself,verb
+kegiatan,燃やす,もやす,,moyasu,membakar,burn,verb
+kegiatan,乾かす,かわかす,,kawakasu,mengeringkan,dry,verb
+kegiatan,冷やす,ひやす,,hiyasu,mendinginkan,cool,verb
+kegiatan,温める,あたためる,,atatameru,menghangatkan,warm,verb
+kegiatan,腐る,くさる,,kusaru,membusuk,rot,verb
+kegiatan,驚かす,おどろかす,,odorokasu,mengejutkan,surprise,verb
+kegiatan,運ぶ,はこぶ,,hakobu,membawa,carry,verb
+kegiatan,褒める,ほめる,,homeru,memuji,praise,verb
+kegiatan,叫ぶ,さけぶ,,sakebu,berteriak,scream,verb
