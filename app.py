@@ -82,6 +82,10 @@ except Exception as e:
 
 ensure_session()
 
+# --- Memorization status ---
+if "memorized" not in st.session_state:
+    st.session_state["memorized"] = {}  # key=index, value="sudah"/"belum"
+
 # ---------- Sidebar ----------
 with st.sidebar:
     st.title("Kontrol — Flashcard Jepang")
@@ -102,13 +106,17 @@ with st.sidebar:
     st.session_state["ui_style"] = "Sederhana" if ui_style.startswith("Sederhana") else "Keren"
     st.markdown("---")
     q = st.text_input("Cari (hiragana / katakana / romaji / indo / eng):")
+    focus_unmemorized = st.checkbox("Fokuskan hanya kata belum hafal", value=False)
     st.markdown("---")
-    st.caption("Favorit disimpan sementara di session browser. Export tersedia.")
+    st.caption("Favorit dan hafalan disimpan sementara di session browser. Export tersedia.")
 
 # ---------- Rebuild filtered index ----------
-current_filter = (tuple(selected), q, order_random, mode, direction, mcq_choices, typing_flex, fuzz_threshold)
+current_filter = (tuple(selected), q, order_random, mode, direction, mcq_choices, typing_flex, fuzz_threshold, focus_unmemorized)
 if st.session_state["last_filter"] != current_filter:
     idx_list, filtered_df = build_index(df, selected, q, random_order=order_random)
+    if focus_unmemorized:
+        unmem = [i for i in idx_list if st.session_state["memorized"].get(i, "belum") == "belum"]
+        idx_list = unmem
     st.session_state["idx_list"] = idx_list
     st.session_state["pos"] = 0
     st.session_state["last_filter"] = current_filter
@@ -164,6 +172,8 @@ else:  # Indo → Hiragana
 
 # ---------- UI ----------
 def simple_card_display(front_text, back_text):
+    if card["kanji"]:
+        st.markdown(f"## 🈶 Kanji: {card['kanji']}")
     st.markdown(f"### {front_text}")
     if show_romaji and direction != "Romaji → Indo":
         st.caption(f"Romaji: {card['romaji']}")
@@ -174,7 +184,7 @@ def fancy_css():
     return dedent("""
     <style>
     .card-wrap { perspective: 1000px; margin-bottom: 10px; }
-    .card { width:100%; max-width:800px; height:220px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12);
+    .card { width:100%; max-width:800px; height:240px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12);
             display:flex; align-items:center; justify-content:center; flex-direction:column; padding:24px; }
     .card-front { background: linear-gradient(120deg,#fef3c7,#fde68a); }
     .card-back { background: linear-gradient(120deg,#bfdbfe,#93c5fd); }
@@ -185,10 +195,11 @@ def fancy_css():
 
 def fancy_card_display(front_text, back_text):
     st.markdown(fancy_css(), unsafe_allow_html=True)
+    kanji_html = f"<div class='small'>Kanji: {card['kanji']}</div>" if card["kanji"] else ""
     if st.session_state.get("flipped_card", False):
         st.markdown(f'<div class="card card-back"><div class="big">{back_text}</div><div class="small">{"Romaji: "+card["romaji"] if show_romaji else ""}</div></div>', unsafe_allow_html=True)
     else:
-        st.markdown(f'<div class="card card-front"><div class="big">{front_text}</div><div class="small">{"Romaji: "+card["romaji"] if show_romaji else ""}</div></div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="card card-front">{kanji_html}<div class="big">{front_text}</div><div class="small">{"Romaji: "+card["romaji"] if show_romaji else ""}</div></div>', unsafe_allow_html=True)
     b1,b2,b3 = st.columns([1,1,1])
     with b1:
         if st.button("Flip"): st.session_state["flipped_card"] = not st.session_state.get("flipped_card", False); st.rerun()
@@ -201,6 +212,22 @@ col_main, col_side = st.columns([3,1])
 with col_main:
     if st.session_state["ui_style"]=="Sederhana": simple_card_display(front, back)
     else: fancy_card_display(front, back)
+
+# --- Tombol hafalan ---
+st.markdown("---")
+col_h1, col_h2 = st.columns(2)
+current_status = st.session_state["memorized"].get(current_idx, "belum")
+
+with col_h1:
+    if st.button("✅ Sudah hafal"):
+        st.session_state["memorized"][current_idx] = "sudah"
+        st.success("Ditandai sebagai sudah hafal!")
+with col_h2:
+    if st.button("❌ Belum hafal"):
+        st.session_state["memorized"][current_idx] = "belum"
+        st.info("Ditandai sebagai belum hafal.")
+
+st.caption(f"Status hafalan untuk kata ini: **{current_status.upper()}**")
 
 # ---------- MODE: Typing jawaban ----------
 if mode=="Ketik Jawaban":
@@ -297,13 +324,19 @@ else:
 
 # ---------- Footer ----------
 st.markdown("---")
-dl_col,hint_col = st.columns([1,3])
+dl_col, hint_col = st.columns([1,3])
 with dl_col:
     buf = io.StringIO()
     filtered_df.to_csv(buf,index=False,encoding="utf-8-sig")
     st.download_button("Download dataset (filtered)",data=buf.getvalue().encode("utf-8-sig"),file_name="kosakata_filtered.csv")
+
+    # Download progress hafalan
+    mem_df = pd.DataFrame([{"index":k, "kanji":df.loc[k,"kanji"], "indo":df.loc[k,"indo"], "status":v}
+                           for k,v in st.session_state["memorized"].items()])
+    if not mem_df.empty:
+        st.download_button("📘 Download progress hafalan", mem_df.to_csv(index=False).encode("utf-8-sig"), "progress_hafalan.csv")
+    else:
+        st.caption("Belum ada progress hafalan.")
+
 with hint_col:
-    st.caption("dibuat dengan ❤️ oleh Aydes")
-    wa_text = "Halo%2C%20saya%20mau%20bertanya%20tentang aplikasi Flashcard Jepang"
-    wa_url = f"https://wa.me/{WA_NUMBER}?text={wa_text}"
-    st.markdown(f'<a href="{wa_url}" target="_blank"><button style="background:#25D366;color:white;padding:6px 12px;border-radius:6px;">💬 Chat WA</button></a>',unsafe_allow_html=True)
+    st.info(f"💬 Hubungi via WhatsApp untuk masukan / data baru: [wa.me/{WA_NUMBER}](https://wa.me/{WA_NUMBER})")
