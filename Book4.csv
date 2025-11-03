@@ -537,3 +537,413 @@ kegiatan,驚かす,おどろかす,,odorokasu,mengejutkan,surprise,verb
 kegiatan,運ぶ,はこぶ,,hakobu,membawa,carry,verb
 kegiatan,褒める,ほめる,,homeru,memuji,praise,verb
 kegiatan,叫ぶ,さけぶ,,sakebu,berteriak,scream,verb
+
+Sekolah,学校,がっこう,ガッコウ,gakkou,sekolah,school,tempat
+Sekolah,小学校,しょうがっこう,ショウガッコウ,shougakkou,sekolah dasar,elementary school,tempat
+Sekolah,中学校,ちゅうがっこう,チュウガッコウ,chuugakkou,sekolah menengah pertama,junior high school,tempat
+Sekolah,高校,こうこう,コウコウ,koukou,sekolah menengah atas,high school,tempat
+Sekolah,大学,だいがく,ダイガク,daigaku,universitas,university,tempat
+Sekolah,教室,きょうしつ,キョウシツ,kyoushitsu,ruang kelas,classroom,tempat
+Sekolah,図書館,としょかん,トショカン,toshokan,perpustakaan,library,tempat
+Sekolah,体育館,たいいくかん,タイイクカン,taiikukan,gedung olahraga,gymnasium,tempat
+Sekolah,校庭,こうてい,コウテイ,koutei,halaman sekolah,schoolyard,tempat
+Sekolah,職員室,しょくいんしつ,ショクインシツ,shokuinshitsu,ruang guru,staff room,tempat
+Sekolah,校長,こうちょう,コウチョウ,kouchou,kepala sekolah,principal,orang
+Sekolah,先生,せんせい,センセイ,sensei,guru,teacher,orang
+Sekolah,生徒,せいと,セイト,seito,murid,student,orang
+Sekolah,学生,がくせい,ガクセイ,gakusei,siswa,student,orang
+Sekolah,授業,じゅぎょう,ジュギョウ,jugyou,pelajaran,class/lesson,aktivitas
+Sekolah,試験,しけん,シケン,shiken,ujian,exam,aktivitas
+Sekolah,宿題,しゅくだい,シュクダイ,shukudai,pekerjaan rumah,homework,benda
+Sekolah,教科書,きょうかしょ,キョウカショ,kyoukasho,buku pelajaran,textbook,benda
+Sekolah,ノート,のーと,ノート,nooto,buku catatan,notebook,benda
+Sekolah,ペン,ぺん,ペン,pen,pena,pen,benda
+Sekolah,鉛筆,えんぴつ,エンピツ,enpitsu,pensil,pencil,benda
+Sekolah,消しゴム,けしごむ,ケシゴム,keshigomu,penghapus,eraser,benda
+Sekolah,定規,じょうぎ,ジョウギ,jougi,penggaris,ruler,benda
+Sekolah,カバン,かばん,カバン,kaban,tas sekolah,bag,benda
+Sekolah,机,つくえ,ツクエ,tsukue,meja,desk,benda
+Sekolah,椅子,いす,イス,isu,kursi,chair,benda
+Sekolah,黒板,こくばん,コクバン,kokuban,papan tulis,blackboard,benda
+Sekolah,チョーク,ちょーく,チョーク,chooku,kapur,chalk,benda
+Sekolah,ホワイトボード,ほわいとぼーど,ホワイトボード,howaitobo-do,papan putih,whiteboard,benda
+Sekolah,教壇,きょうだん,キョウダン,kyoudan,podium guru,teacher’s podium,benda
+Sekolah,窓,まど,マド,mado,jendela,window,benda
+Sekolah,ドア,どあ,ドア,doa,pintu,door,benda
+Sekolah,時計,とけい,トケイ,tokei,jam dinding,clock,benda
+Sekolah,掃除,そうじ,ソウジ,souji,bersih-bersih,cleaning,aktivitas
+Sekolah,校舎,こうしゃ,コウシャ,kousha,gedung sekolah,school building,tempat
+Sekolah,校門,こうもん,コウモン,koumon,gerbang sekolah,school gate,tempat
+Sekolah,体育,たいいく,タイイク,taiiku,olahraga,physical education,pelajaran
+Sekolah,数学,すうがく,スウガク,suugaku,matematika,mathematics,pelajaran
+Sekolah,理科,りか,リカ,rika,ilmu pengetahuan alam,science,pelajaran
+Sekolah,社会,しゃかい,シャカイ,shakai,ilmu sosial,social studies,pelajaran
+Sekolah,国語,こくご,コクゴ,kokugo,bahasa Jepang,Japanese language,pelajaran
+Sekolah,英語,えいご,エイゴ,eigo,bahasa Inggris,English,pelajaran
+Sekolah,音楽,おんがく,オンガク,ongaku,musik,music,pelajaran
+Sekolah,美術,びじゅつ,ビジュツ,bijutsu,seni,art,pelajaran
+Sekolah,クラブ活動,くらぶかつどう,クラブカツドウ,kurabu katsudou,kegiatan klub,club activity,aktivitas
+Sekolah,図工,ずこう,ズコウ,zukou,keterampilan tangan,arts and crafts,pelajaran
+Sekolah,体育祭,たいいくさい,タイイクサイ,taiikusai,festival olahraga,sports festival,acara
+Sekolah,文化祭,ぶんかさい,ブンカサイ,bunkasai,festival budaya,cultural festival,acara
+Mata Pelajaran,国語,こくご,コクゴ,kokugo,bahasa Jepang,Japanese language,pelajaran
+Mata Pelajaran,英語,えいご,エイゴ,eigo,bahasa Inggris,English,pelajaran
+Mata Pelajaran,数学,すうがく,スウガク,suugaku,matematika,mathematics,pelajaran
+Mata Pelajaran,理科,りか,リカ,rika,ilmu pengetahuan alam,science,pelajaran
+Mata Pelajaran,社会,しゃかい,シャカイ,shakai,ilmu sosial,social studies,pelajaran
+Mata Pelajaran,歴史,れきし,レキシ,rekishi,sejarah,history,pelajaran
+Mata Pelajaran,地理,ちり,チリ,chiri,geografi,geography,pelajaran
+Mata Pelajaran,体育,たいいく,タイイク,taiiku,olahraga,physical education,pelajaran
+Mata Pelajaran,音楽,おんがく,オンガク,ongaku,musik,music,pelajaran
+Mata Pelajaran,美術,びじゅつ,ビジュツ,bijutsu,seni rupa,art,pelajaran
+Mata Pelajaran,家庭科,かていか,カテイカ,kateika,tata boga,home economics,pelajaran
+Mata Pelajaran,技術,ぎじゅつ,ギジュツ,gijutsu,teknik,technology,pelajaran
+Mata Pelajaran,保健,ほけん,ホケン,hoken,kesehatan,health education,pelajaran
+Mata Pelajaran,情報,じょうほう,ジョウホウ,jouhou,teknologi informasi,information technology,pelajaran
+Mata Pelajaran,生物,せいぶつ,セイブツ,seibutsu,biologi,biology,pelajaran
+Mata Pelajaran,化学,かがく,カガク,kagaku,kimia,chemistry,pelajaran
+Mata Pelajaran,物理,ぶつり,ブツリ,butsuri,fisika,physics,pelajaran
+Mata Pelajaran,経済,けいざい,ケイザイ,keizai,ekonomi,economics,pelajaran
+Mata Pelajaran,政治,せいじ,セイジ,seiji,politik,politics,pelajaran
+Mata Pelajaran,哲学,てつがく,テツガク,tetsugaku,filsafat,philosophy,pelajaran
+Mata Pelajaran,書道,しょどう,ショドウ,shodou,kaligrafi Jepang,calligraphy,pelajaran
+Mata Pelajaran,日本史,にほんし,ニホンシ,nihonshi,sejarah Jepang,Japanese history,pelajaran
+Mata Pelajaran,世界史,せかいし,セカイシ,sekaishi,sejarah dunia,world history,pelajaran
+Mata Pelajaran,現代文,げんだいぶん,ゲンダイブン,gendaibun,sastra modern,modern literature,pelajaran
+Mata Pelajaran,古文,こぶん,コブン,kobun,sastra klasik,classical literature,pelajaran
+Mata Pelajaran,漢文,かんぶん,カンブン,kanbun,teks klasik Cina,Chinese classics,pelajaran
+Hobi,読書,どくしょ,ドクショ,dokusho,membaca buku,reading,hobi
+Hobi,音楽,おんがく,オンガク,ongaku,mendengarkan musik,listening to music,hobi
+Hobi,旅行,りょこう,リョコウ,ryokou,bepergian,traveling,hobi
+Hobi,写真,しゃしん,シャシン,shashin,fotografi,photography,hobi
+Hobi,映画,えいが,エイガ,eiga,menonton film,watching movies,hobi
+Hobi,料理,りょうり,リョウリ,ryouri,memasak,cooking,hobi
+Hobi,園芸,えんげい,エンゲイ,engei,berkebun,gardening,hobi
+Hobi,絵を描く,えをかく,エヲカク,e o kaku,menggambar,drawing,hobi
+Hobi,ゲーム,げーむ,ゲーム,geemu,bermain game,gaming,hobi
+Hobi,スポーツ,すぽーつ,スポーツ,supootsu,olahraga,sports,hobi
+Hobi,ジョギング,じょぎんぐ,ジョギング,jogingu,jogging,jogging,hobi
+Hobi,サッカー,さっかー,サッカー,sakkaa,sepak bola,soccer,hobi
+Hobi,バスケットボール,ばすけっとぼーる,バスケットボール,basukettobo-ru,bola basket,basketball,hobi
+Hobi,テニス,てにす,テニス,tenisu,tenis,tennis,hobi
+Hobi,サーフィン,さーふぃん,サーフィン,saafin,berselancar,surfing,hobi
+Hobi,ダンス,だんす,ダンス,dansu,menari,dancing,hobi
+Hobi,カラオケ,からおけ,カラオケ,karaoke,bernyanyi karaoke,karaoke,hobi
+Hobi,手芸,しゅげい,シュゲイ,shugei,kerajinan tangan,handicraft,hobi
+Hobi,登山,とざん,トザン,tozan,mendaki gunung,mountain climbing,hobi
+Hobi,釣り,つり,ツリ,tsuri,memancing,fishing,hobi
+Hobi,編み物,あみもの,アミモノ,amimono,merajut,knitting,hobi
+Hobi,書道,しょどう,ショドウ,shodou,kaligrafi Jepang,calligraphy,hobi
+Hobi,楽器,がっき,ガッキ,gakki,bermain alat musik,playing instruments,hobi
+Hobi,ピアノ,ぴあの,ピアノ,piano,bermain piano,playing piano,hobi
+Hobi,ギター,ぎたー,ギター,gitaa,bermain gitar,playing guitar,hobi
+Hobi,旅行計画,りょこうけいかく,リョコウケイカク,ryokou keikaku,merencanakan perjalanan,trip planning,hobi
+
+Arah,上,うえ,ウエ,ue,atas,above,posisi
+Arah,下,した,シタ,shita,bawah,below,posisi
+Arah,中,なか,ナカ,naka,di dalam,inside,posisi
+Arah,外,そと,ソト,soto,di luar,outside,posisi
+Arah,前,まえ,マエ,mae,di depan,in front,posisi
+Arah,後ろ,うしろ,ウシロ,ushiro,di belakang,behind,posisi
+Arah,右,みぎ,ミギ,migi,kanan,right,posisi
+Arah,左,ひだり,ヒダリ,hidari,kiri,left,posisi
+Arah,隣,となり,トナリ,tonari,di sebelah,next to,posisi
+Arah,横,よこ,ヨコ,yoko,di samping,beside,posisi
+Arah,間,あいだ,アイダ,aida,di antara,between,posisi
+Arah,近く,ちかく,チカク,chikaku,di dekat,near,posisi
+Arah,遠く,とおく,トオク,tooku,di jauh,far,posisi
+Arah,向かい,むかい,ムカイ,mukai,berhadapan dengan,opposite,posisi
+Arah,中央,ちゅうおう,チュウオウ,chuuou,pusat,center,posisi
+Arah,周り,まわり,マワリ,mawari,sekitar,around,posisi
+Arah,上側,うえがわ,ウエガワ,uegawa,bagian atas,upper side,posisi
+Arah,下側,したがわ,シタガワ,shitagawa,bagian bawah,lower side,posisi
+Arah,右側,みぎがわ,ミギガワ,migigawa,sisi kanan,right side,posisi
+Arah,左側,ひだりがわ,ヒダリガワ,hidarigawa,sisi kiri,left side,posisi
+Arah,内側,うちがわ,ウチガワ,uchigawa,bagian dalam,inner side,posisi
+Arah,外側,そとがわ,ソトガワ,sotogawa,bagian luar,outer side,posisi
+Arah,手前,てまえ,テマエ,temae,dekat/paling depan,near side,posisi
+Arah,奥,おく,オク,oku,bagian dalam/depan sekali,inner/back side,posisi
+Mata Angin,北,きた,キタ,kita,utara,north,mata angin
+Mata Angin,南,みなみ,ミナミ,minami,selatan,south,mata angin
+Mata Angin,東,ひがし,ヒガシ,higashi,timur,east,mata angin
+Mata Angin,西,にし,ニシ,nishi,barat,west,mata angin
+Mata Angin,北東,ほくとう,ホクトウ,hokutou,timur laut,northeast,mata angin
+Mata Angin,北西,ほくせい,ホクセイ,hokusei,barat laut,northwest,mata angin
+Mata Angin,南東,なんとう,ナントウ,nantou,tenggara,southeast,mata angin
+Mata Angin,南西,なんせい,ナンセイ,nansei,barat daya,southwest,mata angin
+Mata Angin,中央,ちゅうおう,チュウオウ,chuuou,tengah/pusat,center,mata angin
+Arah,T方向,ほうこう,ホウコウ,houkou,arah,direction,konsep
+Arah,位置,いち,イチ,ichi,posisi,position,konsep
+Arah,方角,ほうがく,ホウガク,hougaku,arah mata angin,cardinal direction,konsep
+Arah,向き,むき,ムキ,muki,arah hadap,orientation,konsep
+Arah,上に,うえに,ウエニ,ue ni,di atas sesuatu,on top,posisi
+Arah,下に,したに,シタニ,shita ni,di bawah sesuatu,under,posisi
+Arah,前に,まえに,マエニ,mae ni,di depan sesuatu,in front of,posisi
+Arah,後ろに,うしろに,ウシロニ,ushiro ni,di belakang sesuatu,behind,posisi
+Arah,中に,なかに,ナカニ,naka ni,di dalam sesuatu,inside,posisi
+Arah,外に,そとに,ソトニ,soto ni,di luar sesuatu,outside,posisi
+Arah,右に,みぎに,ミギニ,migi ni,di sebelah kanan,to the right,posisi
+Arah,左に,ひだりに,ヒダリニ,hidari ni,di sebelah kiri,to the left,posisi
+
+Negara,日本,にほん,ニホン,nihon,Jepang,Japan,negara
+Negara,アメリカ,あめりか,アメリカ,amerika,Amerika Serikat,United States,negara
+Negara,イギリス,いぎりす,イギリス,igirisu,Inggris,United Kingdom,negara
+Negara,フランス,ふらんす,フランス,furansu,Perancis,France,negara
+Negara,ドイツ,どいつ,ドイツ,doitsu,Jerman,Germany,negara
+Negara,イタリア,いたりあ,イタリア,itaria,Italia,Italy,negara
+Negara,スペイン,すぺいん,スペイン,supein,Spanyol,Spain,negara
+Negara,ポルトガル,ぽるとがる,ポルトガル,porutogaru,Portugal,Portugal,negara
+Negara,ロシア,ろしあ,ロシア,roshia,Rusia,Russia,negara
+Negara,中国,ちゅうごく,チュウゴク,chuugoku,Tiongkok,China,negara
+Negara,韓国,かんこく,カンコク,kankoku,Korea Selatan,South Korea,negara
+Negara,北朝鮮,きたちょうせん,キタチョウセン,kitachousen,Korea Utara,North Korea,negara
+Negara,台湾,たいわん,タイワン,taiwan,Taiwan,Taiwan,negara
+Negara,インド,いんど,インド,indo,India,India,negara
+Negara,インドネシア,いんどねしあ,インドネシア,indoneshia,Indonesia,Indonesia,negara
+Negara,マレーシア,まれーしあ,マレーシア,mareeshia,Malaysia,Malaysia,negara
+Negara,シンガポール,しんがぽーる,シンガポール,shingapo-ru,Singapura,Singapore,negara
+Negara,タイ,たい,タイ,tai,Thailand,Thailand,negara
+Negara,フィリピン,ふぃりぴん,フィリピン,firipin,Filipina,Philippines,negara
+Negara,ベトナム,べとなむ,ベトナム,betonamu,Vietnam,Vietnam,negara
+Negara,カンボジア,かんぼじあ,カンボジア,kanbojia,Kamboja,Cambodia,negara
+Negara,オーストラリア,おーすとらりあ,オーストラリア,ousutoraria,Australia,Australia,negara
+Negara,ニュージーランド,にゅーじーらんど,ニュージーランド,nyu-ji-rando,Selandia Baru,New Zealand,negara
+Negara,カナダ,かなだ,カナダ,kanada,Kanada,Canada,negara
+Negara,メキシコ,めきしこ,メキシコ,mekishiko,Meksiko,Mexico,negara
+Negara,ブラジル,ぶらじる,ブラジル,burajiru,Brasil,Brazil,negara
+Negara,アルゼンチン,あるぜんちん,アルゼンチン,aruzenchin,Argentina,Argentina,negara
+Negara,エジプト,えじぷと,エジプト,ejiputo,Mesir,Egypt,negara
+Negara,南アフリカ,みなみあふりか,ミナミアフリカ,minami afurika,Afrika Selatan,South Africa,negara
+Negara,トルコ,とるこ,トルコ,toruko,Turki,Turkey,negara
+Negara,サウジアラビア,さうじあらびあ,サウジアラビア,saujia rabia,Arab Saudi,Saudi Arabia,negara
+Negara,イスラエル,いすらえる,イスラエル,isuraeru,Israel,Israel,negara
+Negara,イラン,いらん,イラン,iran,Iran,Iran,negara
+Negara,イラク,いらく,イラク,iraku,Irak,Iraq,negara
+Negara,ギリシャ,ぎりしゃ,ギリシャ,girisha,Yunani,Greece,negara
+Negara,スイス,すいす,スイス,suizu,Swiss,Switzerland,negara
+Negara,スウェーデン,すうぇーでん,スウェーデン,suwe-den,Swedia,Sweden,negara
+Negara,ノルウェー,のるうぇー,ノルウェー,noruwe-,Norwegia,Norway,negara
+Negara,フィンランド,ふぃんらんど,フィンランド,finrando,Finlandia,Finland,negara
+Negara,デンマーク,でんまーく,デンマーク,denma-ku,Denmark,Denmark,negara
+Negara,オランダ,おらんだ,オランダ,oranda,Belanda,Netherlands,negara
+Negara,ベルギー,べるぎー,ベルギー,berugii,Belgia,Belgium,negara
+Negara,ポーランド,ぽーらんど,ポーランド,po-rando,Polandia,Poland,negara
+Negara,チェコ,ちぇこ,チェコ,cheko,Republik Ceko,Czech Republic,negara
+Negara,ハンガリー,はんがりー,ハンガリー,hangarii,Hongaria,Hungary,negara
+Negara,ウクライナ,うくらいな,ウクライナ,ukuraina,Ukraina,Ukraine,negara
+Negara,アイルランド,あいるらんど,アイルランド,airurando,Irlandia,Ireland,negara
+Negara,スコットランド,すこっとらんど,スコットランド,sukottorando,Skotlandia,Scotland,negara
+Kata Sifat,大きい,おおきい,オオキイ,ookii,besar,big,i-adjective
+Kata Sifat,小さい,ちいさい,チイサイ,chiisai,kecil,small,i-adjective
+Kata Sifat,長い,ながい,ナガイ,nagai,panjang,long,i-adjective
+Kata Sifat,短い,みじかい,ミジカイ,mijikai,pendek,short,i-adjective
+Kata Sifat,高い,たかい,タカイ,takai,tinggi/mahal,tall/expensive,i-adjective
+Kata Sifat,低い,ひくい,ヒクイ,hikui,pendek/rendah,short/low,i-adjective
+Kata Sifat,新しい,あたらしい,アタラシイ,atarashii,baru,new,i-adjective
+Kata Sifat,古い,ふるい,フルイ,furui,lama,old,i-adjective
+Kata Sifat,良い,いい,イイ,ii,baik,good,i-adjective
+Kata Sifat,悪い,わるい,ワルイ,warui,buruk,bad,i-adjective
+Kata Sifat,暑い,あつい,アツイ,atsui,panas (cuaca),hot,i-adjective
+Kata Sifat,寒い,さむい,サムイ,samui,dingin (cuaca),cold,i-adjective
+Kata Sifat,熱い,あつい,アツイ,atsui,panas (benda),hot (object),i-adjective
+Kata Sifat,冷たい,つめたい,ツメタイ,tsumetai,dingin (sentuhan),cold (touch),i-adjective
+Kata Sifat,甘い,あまい,アマイ,amai,manis,sweet,i-adjective
+Kata Sifat,辛い,からい,カライ,karai,pedas,spicy,i-adjective
+Kata Sifat,塩辛い,しおからい,シオカライ,shiokarai,asin,salty,i-adjective
+Kata Sifat,苦い,にがい,ニガイ,nigai,pahit,bitter,i-adjective
+Kata Sifat,酸っぱい,すっぱい,スッパイ,suppai,asam,sour,i-adjective
+Kata Sifat,きれい,きれい,キレイ,kirei,indah/bersih,beautiful/clean,na-adjective
+Kata Sifat,汚い,きたない,キタナイ,kitanai,kotor,dirty,i-adjective
+Kata Sifat,かわいい,かわいい,カワイイ,kawaii,lucu/cantik,cute,i-adjective
+Kata Sifat,かっこいい,かっこいい,カッコイイ,kakkoii,keren/cool,cool,i-adjective
+Kata Sifat,静か,しずか,シズカ,shizuka,tenang,quiet,na-adjective
+Kata Sifat,にぎやか,にぎやか,ニギヤカ,nigiyaka,ramai,lively,na-adjective
+Kata Sifat,便利,べんり,ベンリ,benri,praktis,convenient,na-adjective
+Kata Sifat,不便,ふべん,フベン,fuben,tidak praktis,inconvenient,na-adjective
+Kata Sifat,有名,ゆうめい,ユウメイ,yuumei,terkenal,famous,na-adjective
+Kata Sifat,元気,げんき,ゲンキ,genki,sehat/bersemangat,healthy/energetic,na-adjective
+Kata Sifat,親切,しんせつ,シンセツ,shinsetsu,baik hati,kind,na-adjective
+Kata Sifat,大丈夫,だいじょうぶ,ダイジョウブ,daijoubu,baik-baik saja,okay,na-adjective
+Kata Sifat,暇,ひま,ヒマ,hima,luang/free,free (time),na-adjective
+Kata Sifat,上手,じょうず,ジョウズ,jouzu,pandai,skillful,na-adjective
+Kata Sifat,下手,へた,ヘタ,heta,tidak pandai,unskillful,na-adjective
+Kata Sifat,強い,つよい,ツヨイ,tsuyoi,kuat,strong,i-adjective
+Kata Sifat,弱い,よわい,ヨワイ,yowai,lemah,weak,i-adjective
+Kata Sifat,速い,はやい,ハヤイ,hayai,cepat,fast,i-adjective
+Kata Sifat,遅い,おそい,オソイ,osoi,lama/lambat,slow,i-adjective
+Kata Sifat,明るい,あかるい,アカルイ,akarui,cerah/ceria,bright/cheerful,i-adjective
+Kata Sifat,暗い,くらい,クライ,kurai,gelap, dark,i-adjective
+Kata Sifat,楽しい,たのしい,タノシイ,tanoshii,menyenangkan,fun,i-adjective
+Kata Sifat,悲しい,かなしい,カナシイ,kanashii,sedih,sad,i-adjective
+Kata Sifat,怖い,こわい,コワイ,kowai,menakutkan,scary,i-adjective
+Kata Sifat,美しい,うつくしい,ウツクシイ,utsukushii,indah,beautiful,i-adjective
+Kata Sifat,安い,やすい,ヤスイ,yasui,murah,cheap,i-adjective
+Kata Sifat,高価,こうか,コウカ,kouka,mahal,expensive,na-adjective
+Kata Sifat,短気,たんき,タンキ,tanki,emosional,short-tempered,na-adjective
+Kata Sifat,真面目,まじめ,マジメ,majime,serius,serious,na-adjective
+Kata Sifat,面白い,おもしろい,オモシロイ,omoshiroi,menarik,interesting,i-adjective
+Kata Sifat,つまらない,つまらない,ツマラナイ,tsumaranai,membosankan,boring,i-adjective
+Kata Sifat,広い,ひろい,ヒロイ,hiroi,luas,spacious,i-adjective
+Kata Sifat,狭い,せまい,セマイ,semmai,sempit,narrow,i-adjective
+Kata Sifat,深い,ふかい,フカイ,fukai,dalam,deep,i-adjective
+Kata Sifat,浅い,あさい,アサイ,asai, dangkal,shallow,i-adjective
+Kata Sifat,正しい,ただしい,タダシイ,tadashii,benar,correct,i-adjective
+Kata Sifat,間違い,まちがい,マチガイ,machigai,salah,wrong,i-adjective
+Kata Sifat,うるさい,うるさい,ウルサイ,urusai,berisik,noisy,i-adjective
+Kata Sifat,静か,しずか,シズカ,shizuka,tenang,quiet,na-adjective
+Kata Sifat,美味しい,おいしい,オイシイ,oishii,enak,delicious,i-adjective
+Kata Sifat,まずい,まずい,マズイ,mazui,tidak enak,not tasty,i-adjective
+Uchi,家,いえ,イエ,ie,rumah,house,noun
+Uchi,部屋,へや,ヘヤ,heya,kamar,room,noun
+Uchi,台所,だいどころ,ダイドコロ,daidokoro,dapur,kitchen,noun
+Uchi,風呂,ふろ,フロ,furo,kamar mandi,bathroom,noun
+Uchi,トイレ,といれ,トイレ,toire,toilet,toilet,noun
+Uchi,庭,にわ,ニワ,niwa,taman,garden,noun
+Uchi,玄関,げんかん,ゲンカン,genkan,pintu masuk,entrance,noun
+Uchi,窓,まど,マド,mado,jendela,window,noun
+Uchi,ドア,どあ,ドア,doa,pintu,door,noun
+Uchi,天井,てんじょう,テンジョウ,tenjou,langit-langit,ceiling,noun
+Uchi,床,ゆか,ユカ,yuka,lantai,floor,noun
+Uchi,机,つくえ,ツクエ,tsukue,meja,desk,noun
+Uchi,椅子,いす,イス,isu,kursi,chair,noun
+Uchi,ベッド,べっど,ベッド,beddo,tempat tidur,bed,noun
+Uchi,冷蔵庫,れいぞうこ,レイゾウコ,reizouko,kulkas,refrigerator,noun
+Uchi,洗濯機,せんたくき,センタクキ,sentakuki,mesin cuci,washing machine,noun
+Uchi,テレビ,てれび,テレビ,terebi,televisi,television,noun
+Uchi,ソファー,そふぁー,ソファー,sofaa,sofa,sofa,noun
+Uchi,時計,とけい,トケイ,tokei,jam,clock,noun
+Uchi,家族,かぞく,カゾク,kazoku,keluarga,family,noun
+Uchi,父,ちち,チチ,chichi,ayah,father,noun
+Uchi,母,はは,ハハ,haha,ibu,mother,noun
+Uchi,兄,あに,アニ,ani,kakak laki-laki,older brother,noun
+Uchi,姉,あね,アネ,ane,kakak perempuan,older sister,noun
+Uchi,弟,おとうと,オトウト,otouto,adik laki-laki,younger brother,noun
+Uchi,妹,いもうと,イモウト,imouto,adik perempuan,younger sister,noun
+Uchi,ペット,ぺっと,ペット,pett,hewan peliharaan,pet,noun
+Uchi,猫,ねこ,ネコ,neko,kucing,cat,noun
+Uchi,犬,いぬ,イヌ,inu,anjing,dog,noun
+Uchi,掃除する,そうじする,ソウジスル,souji suru,bersih-bersih,to clean,verb
+Uchi,料理する,りょうりする,リョウリスル,ryouri suru,memasak,to cook,verb
+Uchi,寝る,ねる,ネル,neru,tidur,to sleep,verb
+Uchi,起きる,おきる,オキル,okiru,bangun,to wake up,verb
+Uchi,座る,すわる,スワル,suwaru,duduk,to sit,verb
+Uchi,立つ,たつ,タツ,tatsu,berdiri,to stand,verb
+Uchi,開ける,あける,アケル,akeru,membuka,to open,verb
+Uchi,閉める,しめる,シメル,shimeru,menutup,to close,verb
+Mainichi no Seikatsu,朝,あさ,アサ,asa,pagi,morning,noun
+Mainichi no Seikatsu,昼,ひる,ヒル,hiru,siang,noon,noun
+Mainichi no Seikatsu,夜,よる,ヨル,yoru,malam,night,noun
+Mainichi no Seikatsu,起きる,おきる,オキル,okiru,bangun tidur,to wake up,verb
+Mainichi no Seikatsu,食べる,たべる,タベル,taberu,makan,to eat,verb
+Mainichi no Seikatsu,飲む,のむ,ノム,nomu,minum,to drink,verb
+Mainichi no Seikatsu,行く,いく,イク,iku,pergi,to go,verb
+Mainichi no Seikatsu,来る,くる,クル,kuru,datang,to come,verb
+Mainichi no Seikatsu,働く,はたらく,ハタラク,hataraku,bekerja,to work,verb
+Mainichi no Seikatsu,勉強する,べんきょうする,ベンキョウスル,benkyou suru,belajar,to study,verb
+Mainichi no Seikatsu,洗う,あらう,アラウ,arau,mencuci,to wash,verb
+Mainichi no Seikatsu,着る,きる,キル,kiru,memakai pakaian,to wear,verb
+Mainichi no Seikatsu,歯を磨く,はをみがく,ハヲミガク,ha wo migaku,menyikat gigi,to brush teeth,verb
+Mainichi no Seikatsu,寝る,ねる,ネル,neru,tidur,to sleep,verb
+Mainichi no Seikatsu,休む,やすむ,ヤスム,yasumu,istirahat,to rest,verb
+Mainichi no Seikatsu,買い物する,かいものする,カイモノスル,kaimono suru,berbelanja,to shop,verb
+Mainichi no Seikatsu,仕事,しごと,シゴト,shigoto,pekerjaan,work,noun
+Mainichi no Seikatsu,学校,がっこう,ガッコウ,gakkou,sekolah,school,noun
+Mainichi no Seikatsu,授業,じゅぎょう,ジュギョウ,jugyou,pelajaran,lesson,noun
+Mainichi no Seikatsu,友達,ともだち,トモダチ,tomodachi,teman,friend,noun
+Mainichi no Seikatsu,メール,めーる,メール,meeru,email,email,noun
+Mainichi no Seikatsu,電話,でんわ,デンワ,denwa,telepon,telephone,noun
+Mainichi no Seikatsu,朝ご飯,あさごはん,アサゴハン,asagohan,sarapan,breakfast,noun
+Mainichi no Seikatsu,昼ご飯,ひるごはん,ヒルゴハン,hirugohan,makan siang,lunch,noun
+Mainichi no Seikatsu,晩ご飯,ばんごはん,バンゴハン,bangohan,makan malam,dinner,noun
+Mainichi no Seikatsu,運動する,うんどうする,ウンドウスル,undou suru,berolahraga,to exercise,verb
+Mainichi no Seikatsu,散歩する,さんぽする,サンポスル,sanpo suru,jalan-jalan,to take a walk,verb
+Mainichi no Seikatsu,寝坊する,ねぼうする,ネボウスル,nebou suru,telat bangun,to oversleep,verb
+Mainichi no Seikatsu,働きます,はたらきます,ハタラキマス,hatarakimasu,bekerja,to work (polite),verb
+TKA Nihongo A1,こんにちは,こんにちは,コンニチハ,konnichiwa,selamat siang,hello,aisatsu
+TKA Nihongo A1,おはようございます,おはようございます,オハヨウゴザイマス,ohayou gozaimasu,selamat pagi,good morning,aisatsu
+TKA Nihongo A1,こんばんは,こんばんは,コンバンハ,konbanwa,selamat malam,good evening,aisatsu
+TKA Nihongo A1,さようなら,さようなら,サヨウナラ,sayounara,selamat tinggal,goodbye,aisatsu
+TKA Nihongo A1,ありがとう,ありがとう,アリガトウ,arigatou,terima kasih,thank you,aisatsu
+TKA Nihongo A1,すみません,すみません,スミマセン,sumimasen,permisi/maaf,excuse me,aisatsu
+TKA Nihongo A1,はい,はい,ハイ,hai,ya,yes,partikel
+TKA Nihongo A1,いいえ,いいえ,イイエ,iie,tidak,no,partikel
+TKA Nihongo A1,わたし,わたし,ワタシ,watashi,saya,I,pronomina
+TKA Nihongo A1,あなた,あなた,アナタ,anata,kamu,you,pronomina
+TKA Nihongo A1,ともだち,ともだち,トモダチ,tomodachi,teman,friend,noun
+TKA Nihongo A1,せんせい,せんせい,センセイ,sensei,guru,teacher,noun
+TKA Nihongo A1,がくせい,がくせい,ガクセイ,gakusei,siswa,student,noun
+TKA Nihongo A1,がっこう,がっこう,ガッコウ,gakkou,sekolah,school,noun
+TKA Nihongo A1,きょうしつ,きょうしつ,キョウシツ,kyoushitsu,kelas,classroom,noun
+TKA Nihongo A1,つくえ,つくえ,ツクエ,tsukue,meja,desk,noun
+TKA Nihongo A1,いす,いす,イス,isu,kursi,chair,noun
+TKA Nihongo A1,ほん,ほん,ホン,hon,buku,book,noun
+TKA Nihongo A1,えんぴつ,えんぴつ,エンピツ,enpitsu,pensil,pencil,noun
+TKA Nihongo A1,けしごむ,けしごむ,ケシゴム,keshigomu,penghapus,eraser,noun
+TKA Nihongo A1,ノート,のーと,ノート,nooto,buku catatan,notebook,noun
+TKA Nihongo A1,こうこう,こうこう,コウコウ,koukou,sekolah menengah atas,high school,noun
+TKA Nihongo A1,じかん,じかん,ジカン,jikan,waktu,time,noun
+TKA Nihongo A1,いま,いま,イマ,ima,sekarang,now,adverb
+TKA Nihongo A1,なんじ,なんじ,ナンジ,nanji,pukul berapa,what time,question
+TKA Nihongo A1,ごぜん,ごぜん,ゴゼン,gozen,pagi (AM),a.m.,noun
+TKA Nihongo A1,ごご,ごご,ゴゴ,gogo,siang (PM),p.m.,noun
+TKA Nihongo A1,あさ,あさ,アサ,asa,pagi,morning,noun
+TKA Nihongo A1,ひる,ひる,ヒル,hiru,siang,afternoon,noun
+TKA Nihongo A1,よる,よる,ヨル,yoru,malam,night,noun
+TKA Nihongo A1,うち,うち,ウチ,uchi,rumah,home,noun
+TKA Nihongo A1,へや,へや,ヘヤ,heya,kamar,room,noun
+TKA Nihongo A1,かぞく,かぞく,カゾク,kazoku,keluarga,family,noun
+TKA Nihongo A1,ちち,ちち,チチ,chichi,ayah,father,noun
+TKA Nihongo A1,はは,はは,ハハ,haha,ibu,mother,noun
+TKA Nihongo A1,おとうと,おとうと,オトウト,otouto,adik laki-laki,younger brother,noun
+TKA Nihongo A1,いもうと,いもうと,イモウト,imouto,adik perempuan,younger sister,noun
+TKA Nihongo A1,にほん,にほん,ニホン,nihon,jepang,japan,noun
+TKA Nihongo A1,インドネシア,いんどねしあ,インドネシア,indoneshia,indonesia,indonesia,noun
+TKA Nihongo A1,アメリカ,あめりか,アメリカ,amerika,amerika,america,noun
+TKA Nihongo A1,せかい,せかい,セカイ,sekai,dunia,world,noun
+TKA Nihongo A1,できる,できる,デキル,dekiru,bisa/cakap,can/able,verb
+TKA Nihongo A1,はなす,はなす,ハナス,hanasu,berbicara,to speak,verb
+TKA Nihongo A1,きく,きく,キク,kiku,mendengar,to listen,verb
+TKA Nihongo A1,よむ,よむ,ヨム,yomu,membaca,to read,verb
+TKA Nihongo A1,かく,かく,カク,kaku,menulis,to write,verb
+TKA Nihongo A1,たべる,たべる,タベル,taberu,makan,to eat,verb
+TKA Nihongo A1,のむ,のむ,ノム,nomu,minum,to drink,verb
+TKA Nihongo A1,みる,みる,ミル,miru,melihat,to see,verb
+TKA Nihongo A1,いく,いく,イク,iku,pergi,to go,verb
+TKA Nihongo A1,くる,くる,クル,kuru,datang,to come,verb
+TKA Nihongo A1,する,する,スル,suru,melakukan,to do,verb
+TKA Nihongo A1,べんきょうする,べんきょうする,ベンキョウスル,benkyou suru,belajar,to study,verb
+TKA Nihongo A1,ねる,ねる,ネル,neru,tidur,to sleep,verb
+TKA Nihongo A1,おきる,おきる,オキル,okiru,bangun,to wake up,verb
+TKA Nihongo A1,あるく,あるく,アルク,aruku,berjalan,to walk,verb
+TKA Nihongo A1,はしる,はしる,ハシル,hashiru,berlari,to run,verb
+TKA Nihongo A1,たのしい,たのしい,タノシイ,tanoshii,menyenangkan,fun,adjective
+TKA Nihongo A1,おいしい,おいしい,オイシイ,oishii,lezat,delicious,adjective
+TKA Nihongo A1,きれい,きれい,キレイ,kirei,bersih/indah,clean/beautiful,adjective
+TKA Nihongo A1,きたない,きたない,キタナイ,kitanai,kotor,dirty,adjective
+TKA Nihongo A1,やすい,やすい,ヤスイ,yasui,murah,cheap,adjective
+TKA Nihongo A1,たかい,たかい,タカイ,takai,mahal/tinggi,expensive/high,adjective
+TKA Nihongo A1,しずか,しずか,シズカ,shizuka,tenang,quiet,adjective
+TKA Nihongo A1,うるさい,うるさい,ウルサイ,urusai,berisik,noisy,adjective
+TKA Nihongo A1,かわいい,かわいい,カワイイ,kawaii,lucu,cute,adjective
+TKA Nihongo A1,おもしろい,おもしろい,オモシロイ,omoshiroi,menarik,interesting,adjective
+TKA Nihongo A1,たいへん,たいへん,タイヘン,taihen,sulit/berat,difficult,adjective
+TKA Nihongo A1,ひま,ひま,ヒマ,hima,luang,free time,adjective
+TKA Nihongo A1,あたらしい,あたらしい,アタラシイ,atarashii,baru,new,adjective
+TKA Nihongo A1,ふるい,ふるい,フルイ,furui,lama,old,adjective
+TKA Nihongo A1,あつい,あつい,アツイ,atsui,panas,hot,adjective
+TKA Nihongo A1,さむい,さむい,サムイ,samui,dingin,cold,adjective
+TKA Nihongo A1,げんき,げんき,ゲンキ,genki,sehat/bersemangat,healthy,adjective
+TKA Nihongo A1,すき,すき,スキ,suki,suka,like,adjective
+TKA Nihongo A1,きらい,きらい,キライ,kirai,tidak suka,dislike,adjective
+TKA Nihongo A1,しゅみ,しゅみ,シュミ,shumi,hobi,hobby,noun
+TKA Nihongo A1,えいが,えいが,エイガ,eiga,film,movie,noun
+TKA Nihongo A1,おんがく,おんがく,オンガク,ongaku,musik,music,noun
+TKA Nihongo A1,りょこう,りょこう,リョコウ,ryokou,perjalanan,travel,noun
+TKA Nihongo A1,スポーツ,すぽーつ,スポーツ,supo-tsu,olahraga,sport,noun
+TKA Nihongo A1,どようび,どようび,ドヨウビ,doyoubi,sabtu,saturday,noun
+TKA Nihongo A1,にちようび,にちようび,ニチヨウビ,nichiyoubi,minggu,sunday,noun
+TKA Nihongo A1,まいにち,まいにち,マイニチ,mainichi,setiap hari,every day,adverb
+TKA Nihongo A1,ときどき,ときどき,トキドキ,tokidoki,kadang-kadang,sometimes,adverb
+TKA Nihongo A1,いつも,いつも,イツモ,itsumo,selalu,always,adverb
+TKA Nihongo A1,いま,いま,イマ,ima,sekarang,now,adverb
+TKA Nihongo A1,あとで,あとで,アトデ,atode,nanti,afterwards,adverb
